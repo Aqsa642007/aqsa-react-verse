@@ -1,6 +1,7 @@
 {
   "name": "first-project",
   "private": true,
+  "homepage": "https://aqsa642007.github.io/aqsa-react-verse",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
