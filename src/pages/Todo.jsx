@@ -13,7 +13,7 @@ export default function Todo() {
       id: 2,
       text: "Learn React Router",
       completed: true,
-    },
+    },get
   ]);
 
   const addTask = () => {
